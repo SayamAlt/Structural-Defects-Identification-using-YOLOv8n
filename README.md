@@ -25,7 +25,6 @@
 
 ### Dataset
 | Field | Detail |
-
 |---|---|
 | **Name** | Structural Defects v4 |
 | **Source** | [Roboflow Universe — project-ida/structural-defects-cmies](https://universe.roboflow.com/project-ida/structural-defects-cmies/dataset/4) |
